@@ -19,7 +19,7 @@
 - **[thumbfast](https://github.com/po5/thumbfast)** (optional, recommended for hover thumbnails)
 
 ### Folder Structure
-**You can find all these files in my [mpv-config](https://github.com/Xightify/mpv-config/)**
+**You can find all these files in my [mpv-config](https://github.com/Xightify/mpv-config/).**
 
     mpv/
     │   ffmpeg.exe
